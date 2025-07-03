@@ -34,7 +34,7 @@
 
 | 분야 | 사용 기술 |
 |------|-----------|
-| 음성처리 | WebRTC, Whisper, VAD, MFCC, RMS |
+| 음성처리 | WebRTC, Whisper, VAD |
 | 언어모델 | LangGraph, ChromaDB, GPT2/KoAlpaca |
 | 백엔드 | FastAPI, PostgreSQL, Supabase |
 | 프론트엔드 | Flutter, React |
