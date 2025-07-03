@@ -35,7 +35,7 @@
 | 분야 | 사용 기술 |
 |------|-----------|
 | 음성처리 | WebRTC, Whisper, VAD |
-| 언어모델 | LangGraph, ChromaDB, GPT2/KoAlpaca |
+| 언어모델 | Bert, VectorDB, Gemma3/KoAlpaca |
 | 백엔드 | FastAPI, PostgreSQL, Supabase |
 | 프론트엔드 | Flutter, React |
 | 인프라 | Docker, AWS EC2, GitHub Actions |
